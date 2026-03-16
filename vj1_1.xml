@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Jan</ime>
+    <prezime>&#352;lopar</prezime>
+    <JMBG>0246123378</JMBG>
+    <datumRodenja>2005-06-04</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>
+        Organizacija i informatizacija ureda (Informatika)
+    </studijskiProgram>
+    <adresa>
+        <ulica>Krapina 289A</ulica>
+        <grad>Krapina</grad>
+        <postanskiBroj>49000</postanskiBroj>
+    </adresa>
+</student>
