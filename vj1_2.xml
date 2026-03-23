@@ -15,19 +15,19 @@
     </kontakt>
 
     <kolegiji>
-        <kolegij>
+        <kolegij id="1">
             <nazivKolegija>Napredne tehnike programiranja</nazivKolegija>
             <imeProfesora>&#381;eljko Kova&#269;evi&#263;</imeProfesora>
             <brojECTSa>6</brojECTSa>
         </kolegij>
 
-        <kolegij>
+        <kolegij id="2">
             <nazivKolegija>Podatkovna povezanost i digitalna infrastruktura</nazivKolegija>
             <imeProfesora>Alen &#352;imec</imeProfesora>
             <brojECTSa>5</brojECTSa>
         </kolegij>
 
-       <kolegij>
+       <kolegij id="3">
             <nazivKolegija>Programiranje WEB aplikacija</nazivKolegija>
             <imeProfesora>Alen &#352;imec</imeProfesora>
             <brojECTSa>5</brojECTSa>
