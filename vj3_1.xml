@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Narudzba>
-    <Ime>Ivan</Ime>
-    <Prezime>Horvat</Prezime>
+<dokument
+  xmlns:nar="http://primjer.hr/narudzba"
+  xmlns:rac="http://primjer.hr/racun">
 
-    <MjestoStanovanja>
-        <Adresa>Ilica 10</Adresa>
-        <Grad>Zagreb</Grad>
-        <Drzava>Hrvatska</Drzava>
-    </MjestoStanovanja>
+  <nar:narudzba>
+    <nar:broj>N-2026-015</nar:broj>
+    <nar:datum>2026-04-08</nar:datum>
+    <nar:iznos valuta="EUR">189.99</nar:iznos>
+  </nar:narudzba>
 
-    <NaruceniArtikl>
-        <Naziv>Laptop</Naziv>
-        <Kolicina>1</Kolicina>
-        <Cijena valuta="EUR">699.00</Cijena>
-    </NaruceniArtikl>
-</Narudzba>
+  <rac:racun>
+    <rac:broj>R-2026-015</rac:broj>
+    <rac:datum>2026-04-08</rac:datum>
+    <rac:iznos valuta="EUR">189.99</rac:iznos>
+  </rac:racun>
+
+</dokument>
