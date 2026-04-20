@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba>
+    <ime>Ana Horvat</ime>
+    <cijena>19.99</cijena>
+    <godine>25</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>1999-05-14</datumRodjenja>
+    <vrijemePocetka>09:30:00</vrijemePocetka>
+</osoba>
