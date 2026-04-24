@@ -3,5 +3,4 @@
 <!ELEMENT naslov (#PCDATA)>
 <!ELEMENT autor (#PCDATA)>
 <!ELEMENT godina (#PCDATA)>
-
 <!ATTLIST knjiga idKnjiga ID #REQUIRED>

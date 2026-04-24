@@ -1,0 +1,14 @@
+<!ELEMENT Osoba(Ime, Prezime, MjestoStanovanja, Kontakt, Mobitel)>
+<!ELEMENT Ime (#PCDATA)>
+<!ELEMENT Prezime (#PCDATA)>
+<!ELEMENT MjestoStanovanja (#PCDATA)>
+<!ELEMENT MjestoStanovanja(Adresa, Grad, Drzava)>
+<!ELEMENT Adresa (#PCDATA)>
+<!ELEMENT Grad (#PCDATA)>
+<!ELEMENT Drzava (#PCDATA)>
+<!ELEMENT Kontakt (#PCDATA)>
+<!ELEMENT Kontakt(Mobitel, KucniTelefon, Email)>
+<!ELEMENT Mobitel (#PCDATA)>
+<!ELEMENT KucniTelefon (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ATTLIST Osoba spol (M|Ž) #REQUIRED>
