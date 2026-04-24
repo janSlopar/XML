@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osoba>
+    <![CDATA[
+        <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <xs:element name="ime" type="xs:string"/>
+            <xs:element name="cijena" type="xs:decimal"/>
+            <xs:element name="godine" type="xs:integer"/>
+            <xs:element name="aktivan" type="xs:boolean"/>
+            <xs:element name="datumRodjenja" type="xs:date"/>
+            <xs:element name="vrijemePocetka" type="xs:time"/>
+        </xs:schema>
+    ]]>
+
     <ime>Ana Horvat</ime>
     <cijena>19.99</cijena>
     <godine>25</godine>

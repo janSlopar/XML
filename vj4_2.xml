@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+          xsi:noNamespaceSchemaLocation="vj4_2.xsd">
     <kupac>Ana Horvat</kupac>
     <datumNarudzbe>2026-04-20</datumNarudzbe>
     <kolicina>5</kolicina>
